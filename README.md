@@ -1,2 +1,2 @@
-# github-coursera
+# Coursera_capstone
 First repository(Coursera)
