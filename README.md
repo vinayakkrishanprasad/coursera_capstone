@@ -1,3 +1,7 @@
+# IBM_Data_Science_Coursera_Capstone
+
+[Coursera Professional Certificate - IBM Data Science Capstone](https://www.coursera.org/account/accomplishments/professional-cert/PQ7ZLET5PHYE)
+
  # 🗽🍽️ Locating Afghan Restaurants in New York
 
 ## Overview
